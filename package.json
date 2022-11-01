@@ -4,6 +4,7 @@
   "description": "Personal Website of Nick Durrer",
   "main": "tailwind.config.js",
   "dependencies": {
+    "flowbite": "^1.5.3",
     "tailwindcss": "^3.2.1"
   },
   "devDependencies": {},
